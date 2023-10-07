@@ -194,7 +194,7 @@ local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shl
 OrionLib:MakeNotification({
 	Name = "Injection Success",
 	Content = "\n Early Acces Injection | Zero API",
-	Image = "https://cdn.discordapp.com/attachments/1134417336129048586/1160244096137437385/creative-innovative-initial-z-logo-and-zz-logo-z-letter-minimal-luxury-monogram-professional-initial-design-premium-business-typeface-alphabet-symbol-and-sign-400-197259381.jpg?ex=6533f484&is=65217f84&hm=4f15e4cbcb414e57329c925ceb0a70b4baa8c973c29d0a1ae64bf05e6c593820&",
+	Image = "rbxassetid://14996518261",
 	Time = 5
 })
 
