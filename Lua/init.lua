@@ -193,9 +193,9 @@ end
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 OrionLib:MakeNotification({
 	Name = "Injection Success",
-	Content = "\n Thanks For Using DavidSploit X | DavidSploit API \n\n Credits For API to: Nyron",
+	Content = "\n Thanks For Using DavidSploit X \n\n Credits For API to: Nyron",
 	Image = "rbxassetid://14996518261",
-	Time = 5
+	Time = 10
 })
 
 --setclipboard("https://discord.gg/KwEjgsG6Em")
