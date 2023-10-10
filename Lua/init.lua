@@ -190,6 +190,14 @@ getgenv().getexecutorname = function()
     return "ZeroXploit"
 end
 
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+OrionLib:MakeNotification({
+	Name = "Your Version Is Outdated",
+	Content = "Please Get the New API",
+	Image = "",
+	Time = 5
+})
+
 --setclipboard("https://discord.gg/KwEjgsG6Em")
 
 --Compatibility
